@@ -1,1 +1,1 @@
-# predict-diabetes-using-ml
+# predict-diabetes-using-machine learning
